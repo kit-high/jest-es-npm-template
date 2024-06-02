@@ -1,3 +1,3 @@
-import { exampleFunction } from './example';
+import { exampleFunction } from '@/example';
 
 console.log(exampleFunction('Hello, World!'));
